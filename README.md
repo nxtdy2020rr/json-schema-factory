@@ -111,3 +111,6 @@ python -m unittest tests/test_inferer.py
 
 ---
 *Released under the MIT License by alibasit-lgtm4.*
+
+---
+*Released under the MIT License by AlexanderAM1231.*
